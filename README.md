@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js, Vue.js**
 
-- 👯 I’m looking to collaborate on **Open-source frontend projects**
+- 👯 I’m looking to collaborate on **Open-source backend projects**
 
 - 🤝 I’m looking for help with **constraint satisfaction algorithms**
 
